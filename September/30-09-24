@@ -1,0 +1,128 @@
+J271C7D337 Gagal rekam LHP
+I14007BD95 FAKTUR P3BET
+J1807FBB50 PFPD mengalami kendala edit penetapan tidak aktif
+I928599D09 ETAX-API-00023
+E09345E008 SPPBMCP
+J2A56E4734 Respon reject
+J70A1884FA LNSW
+L2F925D2D3 SPTNP blank
+J1FC5C3459 kendala pada saat akan bikin tila/SP2 di NPCT!
+CC971A690B Form A
+J348495BA3 faktur tidak ditemukan 
+EAEC6770E3 BC 2.5
+L7E37E301F faktur tidak ditemukan 
+LA6CF16590 Validasi
+J1B07DE71F SPTNP
+I9A21D9759 Nilai PPN tidak ada
+I2B8F36791 data PIB yang tidak muncul di ceisa 4.0, pada FITUR  KITE ONLINE
+I8F2CADA77 tidak bisa perekaman
+JAAF43FCEC 
+E73C7FF54D 
+J9FE7D259E 
+KF733E5BEF entitas
+JA9627773A stuck payment
+J652D5309F perekaman dokumen
+D393A64AA8 
+FF763D0010 gate out 
+J595FE20E6 rekam gate out
+D8CC786B84 Double SPPB
+JB91BB4203 Validasi
+J9E1FFD3D1 validasi
+J8B43C9A49 Reject e-faktur
+
+case : SPTNP BLANK
+apabila terdapat kendala cetak SPTNP petugas bisa melakukan pengecekan pada ceisa perbendaharan atau ceisa 4.0(SAPP inhouse -> Piutang)
+
+
+silahkan lakukan pengecekan pada akun pemilik barang.
+
+berdasarkan pengecekan  untuk no mesin itu tidak form A pada aju tersebut
+
+case :  Jenis Dokumen : Kep. Keberatan
+Nama Lawan Transaksi: DITJEN BEA DAN CUKAI
+Nomor Aju Dokumen: PIB 070000-001634-20230525-000473
+Nomor Dokumen :  KEP-00818/BC/WBC.11/KBT/2023
+Tanggal Dokumen: 30/08/2023
+Nomor NTPN: 811872B18QHP3AAG
+Masa Pajak:  12/2023
+DPP: Rp 37.916.000
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+
+Berdasarkan pengecekan,
+Data telah tersedia untuk dipertukarkan dengan DJP, apabila Data KEP Keberatan tidak terdapat pada 
+menu prepopulated, silahkan arahkan PJ (948156195619000-NUSANTARA SEJAHTERA JAYA )submit faktur secara manual dengan format KEP Keberatan#NTPN
+
+KEP-00818/BC/WBC.11/KBT/2023#811872B18QHP3AAG
+KEP-00955/BC/WBC.11/KBT/2023#82E0D0I695J31AH3
+KEP-00959/BC/WBC.11/KBT/2023#E62575SN853NKB28
+KEP-00921/BC/WBC.11/KBT/2023#EA7800I695GHIBDV
+atau
+00818#811872B18QHP3AAG
+00955#82E0D0I695J31AH3
+00959#E62575SN853NKB28
+00921#EA7800I695GHIBDV
+
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+
+berdasarkan pengecekan data atas no aju dan sptnp tersedia silahkan
+untuk SPTNP submit faktur dengan format NOSPTNP#NTPN dan
+untuk BC 2.0  submit faktur dengan format NOPEN#NTPN
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+berdasarkan pengecekan atas aju tersebut 
+tidak ada dokumen fasilitas KITE baik fasilitas KITE pembebasan maupun pengembaliaan sehingga tidak muncul pada portal KITE online
+silahkan pastikan kembali pengisian PIB menggunakan fasilitas KITE.
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+fasiltas KITE CHARACTER
+03
+40
+41
+
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+mohon lampirkan aju BC 33 untuk pengecekan lebih lanjut.
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+
+berdasarkan pengecekan data atas no aju dan sptnp tersedia silahkan
+untuk submit faktur dengan format NomorPendaftaran#NomorAJU
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi. 
+berdasarkan pengecekan atas aju tersebut masih perekaman silahkan submit dokumen 2.8
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi. 
+berdasarkan pengecekan aju tersebut belum melakukan rekam gate out 
+silahkan untuk rekam gate out ulang
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi. 
+Silahkan submit faktur kembali dengan format AWB#NTPN
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+

@@ -1,0 +1,68 @@
+LE5D83A0E4 Status e-faktur reject dan tidak rekon
+LDC49E09C9 Rekma LHP
+J19152B94F Kode identitas salah
+J3AEC5A5DA Billing
+LE6A42F3A0 BC 4.0 ETAX-API-10025: Dokumen SPPB Tidak Ditemukan
+J4FAD79F6B BL Sudah di gunakan
+J71017D2D4 data tidak di temukan DJP
+J93AD9B937 Create Billing manual
+J58ACA6ED1 BILLING SPTNP dan SPTNP
+L229A85DA6 CK-1 Billing
+C536073CB4 Billing 64
+CBD39502B1 faktur etax 50030
+J9600003E4 Reject PPH
+K9552B3610 tidak bisa generate pungutan, sehingga tidak muncul bm, ppn, pph
+L5BB79DA09 NPWP tidak terdaftar
+KA6DF5B346 NPWP tidak terdaftar
+L4EF918C27 PIB aju hilang
+JF1CD35244 Respon billing tidak ada
+E749D12C2E Nomorkontainer tidak ada
+L0BE1EDCF5 billing tidak ada
+JE959486D9 Validasi
+K700DEB03E data efaktur tidak di temukan
+J7C64303F7 Faktur 3.3
+JC8B42DD5C Faktur 3.3
+LC8B420A43 Penjaluran
+A53CFBD315 reset pass ceisa 4.0
+K508AC9718 faktur SPPMCP
+K7AF9032C0 faktur 2.0
+JD6ADD43C7 penjaluran
+J6CDCEE98D Stuck penomoran
+
+5665218753#9D2B67LI83BS1I9L
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.
+Untuk billing null, bisa dilakukan cetak mandiri pada menu "Perbendaharaan Online" ceisa 4.0 - > Pilih menu Billing - > Kemudian pilih sub menu Browse Billing - > Pencarian data berdasarkan kode kantor dan periode - > Pada detail dokumen terdapat tombol cetak yang akan menampilkan halaman cetak dokumen tersebut - > Klik tombol cetak pada detail dokumen.
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali.
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.
+
+data telah tersedia silahkan untuk coba daftar kembali.
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali.
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.
+berdasarkan pengecekan aju tersebut tidak terdapat entitas dengan NPWP terlampir,
+pastikan pada saat upload excel telah terdapat kode entitas ppjk dan id identitas ppjk
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali.
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.
+data kontainer sudah tersedia silahkan cek dan cetak kembali SPPB.
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali.
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.
+
+no aju telah mendapat respon lanjutan silahkan cek secara berkala.
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali.
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.
+
+silahakan sumbit faktur dengan format NOPEN#NTPN
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali.
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
