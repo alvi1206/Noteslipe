@@ -1,0 +1,389 @@
+{
+  "asalData": "SQ",
+  "flagSsm": "4",
+  "asuransi": 0,
+  "biayaPengurang": 0,
+  "biayaTambahan": 0,
+  "bruto": 281875,
+  "cif": 247500,
+  "disclaimer": "0",
+  "flagVd": "T",
+  "fob": 247500,
+  "freight": 0,
+  "hargaPenyerahan": 0,
+  "idPengguna": "TRD3197511",
+  "jabatanTtd": "DIREKTUR",
+  "jumlahKontainer": 11,
+  "jumlahTandaPengaman": 0,
+  "kodeAsuransi": "LN",
+  "kodeCaraBayar": "1",
+  "kodeDokumen": "20",
+  "kodeIncoterm": "CIF",
+  "kodeJenisImpor": "1",
+  "kodeJenisNilai": "KMD",
+  "kodeJenisProsedur": "1",
+  "kodeKantor": "070100",
+  "kodePelMuat": "NZNPE",
+  "kodePelTransit": "",
+  "kodePelTujuan": "IDTPE",
+  "kodeTps": "CTPS",
+  "kodeTutupPu": "11",
+  "kodeValuta": "USD",
+  "kotaTtd": "Kota Jakarta Utara",
+  "namaTtd": "IRWAN PRAYITNA",
+  "ndpbm": 15427,
+  "netto": 275000,
+  "nilaiBarang": 3818182500,
+  "nilaiIncoterm": 247500,
+  "nilaiMaklon": 0,
+  "nomorAju": "2012036AFF0620240923000022",
+  "seri": 0,
+  "tanggalAju": "2024-09-23",
+  "tanggalTiba": "2024-09-27",
+  "tanggalTtd": "2024-09-23",
+  "totalDanaSawit": 0,
+  "volume": 0,
+  "vd": 0,
+  "barang": [
+    {
+      "asuransi": 0,
+      "bruto": 281875,
+      "cif": 247500,
+      "cifRupiah": 3818182500,
+      "diskon": 0,
+      "fob": 247500,
+      "freight": 0,
+      "hargaEkspor": 0,
+      "hargaPatokan": 0,
+      "hargaPenyerahan": 0,
+      "hargaPerolehan": 0,
+      "hargaSatuan": 900,
+      "hjeCukai": 0,
+      "isiPerKemasan": 0,
+      "jumlahBahanBaku": 0,
+      "jumlahDilekatkan": 0,
+      "jumlahKemasan": 13750,
+      "jumlahPitaCukai": 0,
+      "jumlahRealisasi": 0,
+      "jumlahSatuan": 275,
+      "kapasitasSilinder": 0,
+      "kodeJenisKemasan": "BG",
+      "kodeKondisiBarang": "1",
+      "kodeNegaraAsal": "NZ",
+      "kodeSatuanBarang": "TNE",
+      "merk": "N/M",
+      "ndbpm": 15427,
+      "netto": 275000,
+      "nilaiBarang": 247500,
+      "nilaiDanaSawit": 0,
+      "nilaiDevisa": 0,
+      "nilaiTambah": 0,
+      "pernyataanLartas": "Y",
+      "persentaseImpor": 0,
+      "posTarif": "07031019",
+      "saldoAkhir": 0,
+      "saldoAwal": 0,
+      "seriBarang": 1,
+      "tarifCukai": 0,
+      "tipe": "-",
+      "uraian": "FRESH ONION @20 KG/BAG",
+      "volume": 0,
+      "barangDokumen": [
+        { "seriDokumen": "4", "seriIjin": null },
+        { "seriDokumen": "5", "seriIjin": 1 },
+        { "seriDokumen": "6", "seriIjin": 1 },
+        { "seriDokumen": "7", "seriIjin": 1 },
+        { "seriDokumen": "8", "seriIjin": 1 },
+        { "seriDokumen": "9", "seriIjin": 10 }
+      ],
+      "barangTarif": [
+        {
+          "jumlahSatuan": 275,
+          "kodeFasilitasTarif": "1",
+          "kodeJenisPungutan": "BM",
+          "kodeSatuanBarang": "TNE",
+          "kodeJenisTarif": "1",
+          "nilaiBayar": 0,
+          "nilaiSudahDilunasi": 0,
+          "nilaiFasilitas": 0,
+          "seriBarang": 1,
+          "tarif": 0,
+          "tarifFasilitas": 100
+        },
+        {
+          "jumlahSatuan": 275,
+          "kodeFasilitasTarif": "1",
+          "kodeJenisPungutan": "PPN",
+          "kodeJenisTarif": "1",
+          "kodeSatuanBarang": "TNE",
+          "nilaiBayar": 0,
+          "nilaiFasilitas": 0,
+          "seriBarang": 1,
+          "nilaiSudahDilunasi": 0,
+          "tarif": 0,
+          "tarifFasilitas": 100
+        },
+        {
+          "jumlahSatuan": 275,
+          "kodeFasilitasTarif": "1",
+          "kodeJenisPungutan": "PPH",
+          "kodeJenisTarif": "1",
+          "kodeSatuanBarang": "TNE",
+          "nilaiBayar": 95454550,
+          "nilaiFasilitas": 0,
+          "seriBarang": 1,
+          "nilaiSudahDilunasi": 0,
+          "tarif": 2.5,
+          "tarifFasilitas": 100
+        }
+      ],
+      "barangVd": [
+        { "kodeJenisVd": "NTR", "nilaiBarangVd": 0, "jatuhTempoRoyalti": null }
+      ],
+      "barangSpekKhusus": [],
+      "barangPemilik": [
+        { "seriBarang": 1, "seriBarangPemilik": 8, "seriEntitas": 8 }
+      ]
+    }
+  ],
+  "entitas": [
+    {
+      "alamatEntitas": "Jalan Pasar Baru Timur No.7E",
+      "kodeEntitas": "1",
+      "kodeJenisApi": "01",
+      "kodeJenisIdentitas": "5",
+      "kodeStatus": "L",
+      "namaEntitas": "BUMI SEGAR ANDALAN",
+      "nibEntitas": "0295010030996",
+      "nomorIdentitas": "962068490075000",
+      "seriEntitas": 1,
+      "kodeNegara": "ID"
+    },
+    {
+      "alamatEntitas": "Jalan Pasar Baru Timur No.7E",
+      "kodeEntitas": "7",
+      "kodeJenisIdentitas": "5",
+      "kodeStatus": null,
+      "namaEntitas": "BUMI SEGAR ANDALAN",
+      "nibEntitas": "",
+      "nomorIdentitas": "962068490075000",
+      "seriEntitas": 8,
+      "kodeNegara": "ID"
+    },
+    {
+      "alamatEntitas": "2 JOLL ROAD, HAVELOCK NORTH, 4130",
+      "kodeEntitas": "9",
+      "kodeJenisIdentitas": "",
+      "kodeStatus": "",
+      "namaEntitas": "INTEGROW MARKETING LTD",
+      "nibEntitas": "",
+      "nomorIdentitas": "",
+      "seriEntitas": 2,
+      "kodeNegara": "NZ"
+    },
+    {
+      "alamatEntitas": "2 JOLL ROAD, HAVELOCK NORTH, 4130",
+      "kodeEntitas": "10",
+      "kodeJenisIdentitas": "",
+      "kodeStatus": "",
+      "namaEntitas": "INTEGROW MARKETING LTD",
+      "nibEntitas": "",
+      "nomorIdentitas": "",
+      "seriEntitas": 5,
+      "kodeNegara": "NZ"
+    },
+    {
+      "alamatEntitas": "Jalan Pasar Baru Timur No.7E",
+      "kodeEntitas": "11",
+      "kodeJenisIdentitas": "5",
+      "kodeStatus": null,
+      "namaEntitas": "BUMI SEGAR ANDALAN",
+      "nibEntitas": "",
+      "nomorIdentitas": "962068490075000",
+      "seriEntitas": 9,
+      "kodeNegara": "ID"
+    },
+    {
+      "alamatEntitas": "JL. SUNTER GARDEN D-8/5C, RT.05/18, SUNTER AGUNG, TANJUNG PRIOK.",
+      "kodeEntitas": "4",
+      "kodeJenisIdentitas": "5",
+      "kodeStatus": "",
+      "namaEntitas": "TUNAS MAJU TRANSPORINDO",
+      "nibEntitas": "",
+      "nomorIdentitas": "033093857048000",
+      "seriEntitas": 7,
+      "kodeNegara": ""
+    }
+  ],
+  "kemasan": [
+    {
+      "jumlahKemasan": 13750,
+      "kodeJenisKemasan": "BG",
+      "merkKemasan": "N/M",
+      "seriKemasan": 1
+    }
+  ],
+  "kontainer": [
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU9032682",
+      "seriKontainer": 2
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MSWU1008358",
+      "seriKontainer": 3
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU0089049",
+      "seriKontainer": 5
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MWCU5317098",
+      "seriKontainer": 1
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU0428353",
+      "seriKontainer": 7
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU9087617",
+      "seriKontainer": 8
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU0361917",
+      "seriKontainer": 9
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU0610630",
+      "seriKontainer": 6
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "TLLU1170857",
+      "seriKontainer": 10
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MNBU0095550",
+      "seriKontainer": 11
+    },
+    {
+      "kodeJenisKontainer": "8",
+      "kodeTipeKontainer": "5",
+      "kodeUkuranKontainer": "40",
+      "nomorKontainer": "MMAU1133975",
+      "seriKontainer": 4
+    }
+  ],
+  "dokumen": [
+    {
+      "idDokumen": "1653003",
+      "kodeDokumen": "380",
+      "nomorDokumen": "6674",
+      "seriDokumen": 2,
+      "tanggalDokumen": "2024-08-27",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079227580_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1652768",
+      "kodeDokumen": "705",
+      "nomorDokumen": "243097141",
+      "seriDokumen": 3,
+      "tanggalDokumen": "2024-08-27",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/9120209471409/1727078374622_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1653091",
+      "kodeDokumen": "958",
+      "nomorDokumen": "IHR21E771982470834",
+      "seriDokumen": 5,
+      "tanggalDokumen": "2024-08-30",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079550363_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1653018",
+      "kodeDokumen": "217",
+      "nomorDokumen": "6674",
+      "seriDokumen": 1,
+      "tanggalDokumen": "2024-08-27",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079281690_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1653039",
+      "kodeDokumen": "861",
+      "kodeFasilitas": "58",
+      "nomorDokumen": "21.2024.34275",
+      "seriDokumen": 4,
+      "tanggalDokumen": "2024-08-27",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079363630_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1653060",
+      "kodeDokumen": "958",
+      "nomorDokumen": "IHR21E771982470842",
+      "seriDokumen": 6,
+      "tanggalDokumen": "2024-08-30",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079432195_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1653108",
+      "kodeDokumen": "958",
+      "nomorDokumen": "IHR21E771982470830",
+      "seriDokumen": 7,
+      "tanggalDokumen": "2024-08-30",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079614220_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1653078",
+      "kodeDokumen": "958",
+      "nomorDokumen": "IHR21E771982470825",
+      "seriDokumen": 8,
+      "tanggalDokumen": "2024-08-30",
+      "urlDokumen": "https://api.insw.go.id/./assets/upload/bc30/0295010030996/1727079490634_9fee2b0b-5098-bfae-1b4a-c84cac6d9da4.pdf"
+    },
+    {
+      "idDokumen": "1654851",
+      "kodeDokumen": "959",
+      "nomorDokumen": "04.PI-55.24.0691",
+      "seriDokumen": 9,
+      "tanggalDokumen": "2024-06-11",
+      "urlDokumen": "https://inatrade.kemendag.go.id/#/docs/3ACE3ECABD44A52730D363BB6449527E21084C7A1AD8F072819E8D0486361CF1F5EC21BA832AD21183F47684106F14F5D33921C8A4C8587D9E4567690D788E8F9DEB0EE3718150D3EABDE4B3194272A0"
+    }
+  ],
+  "pengangkut": [
+    {
+      "kodeBendera": "SG",
+      "namaPengangkut": "RIO MADEIRA",
+      "nomorPengangkut": "433N",
+      "kodeCaraAngkut": "1",
+      "seriPengangkut": 1
+    }
+  ]
+}

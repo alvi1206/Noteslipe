@@ -1,0 +1,125 @@
+J920BC38D2 Validasi
+JB892E1599 Faktur P3BET
+JDE52E5E31 AP
+J7A7934470 Reject BL
+LBAC008F96 Validasi
+JAE08F2EF4 SPPP blank
+J7969A6359 Respon reject tidak ditemukan
+JF4A7CA998 validasi
+J8AA76C93B SPPMCP
+C52C984135 Reject
+J3AE68D809 reject
+J70CF7A26E Reject
+J69EBF9AC7 Validasi
+LFD4F19CC1 P3beta
+LC0BC8F2A0 
+J6865124E2 gagal kirim mpn
+JA6AB9EA24 Reject
+J4A3941A87 gagal kirim mpn
+J9786D3882 NPWP tidak terdaftar
+JDFAE6D39F LNSW
+LB93EE75C6 
+J054098552 SPPB
+J3E52C530A reject
+LEE2AA421F Billing 64
+J0CBA9E32E Faktur
+JBF742096D Reject
+JD728B0B4F Reject Bl
+
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+
+berdasarakan pengecekan atas aju tersebut proses status AP sudah selesai pada tanggal 01-10-2024 pada pukul 2:25:57 PM dan status aju saat ini sudah selesai proses.
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih kembali dan mohon maaf atas ketidaknyamanannya.
+
+
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi. 
+
+berdasarkan pengecekan terdapat perbedaan antara data PIB dengan manifes.
+perbendaan tersebut terdapat pada BC11,tanggal_bc11
+silahkan lakukan perbaikan atas reject tersebut.
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+NO	AJU BC 3.3	NOPEN BC 3.3	TGL BC 3.3	AJU P3BET	NOPEN P3BET	TGL P3BET	STATUS P3BET	KANTOR PENGAJUAN 	STATUS REJECT E-FAKTUR	WHS
+1	00003302306820240416000976	037501	16/04/2024	00033101070720240625000385	601678	25-06-2024	SPPD	MARUNDA	Reject	Tungya
+2	00003302306820240424001100	020607	24/04/2024	00033194965220240605000136	600096	05 Jun 2024	SPPD 	JAKARTA	Reject	GLT
+3	00003302306820240430001188	022281	02/05/2024	00033194965220240605000147	600123	05 Jun 2024	SPPD 	JAKARTA	Reject	GLT
+4	00003302306820240524001454	059702	25/05/2024	00033101072020240622900395	601740	2024-06-26	SPPD	PLB DW01 CAKUNG	Reject	DWI
+5	00003302306820240524001452	059700	25/05/2024	00033101072020240622900395	601740	2024-06-26	SPPD	PLB DW01 CAKUNG	Reject	DWI
+6	00003302306820240524001453	059701	25/05/2024	00033101072020240622900395	601740	2024-06-26	SPPD	PLB DW01 CAKUNG	Reject	DWI
+7	00003331297720240531000007	600580	03/06/2024	00033101070720240624000366	601518	24-06-2024	SPPD	MARUNDA	Reject	Tungya
+8	00003331297720240531000008	600582	03/06/2024	00033101070720240624000359	601503	24-06-2024	SPPD	MARUNDA	Reject	Tungya
+9	00003331297720240604000044	600330	04/06/2024	00033194965220240612000349	600375	14 Jun 2024	SPPD	JAKARTA	Reject	GLT
+10	00003331297720240607000080	604686	08/06/2024	00033101070720240701000476	602006	01-07-2024	SPPD	MARUNDA	Reject	Tungya
+
+'00003302306820240416000976',
+'00003302306820240424001100',
+'00003302306820240430001188',
+'00003302306820240524001454',
+'00003302306820240524001452',
+'00003302306820240524001453',
+'00003331297720240531000007',
+'00003331297720240531000008',
+'00003331297720240604000044',
+'00003331297720240607000080'
+
+'00033101070720240625000385',
+'00033194965220240605000136',
+'00033194965220240605000147',
+'00033101072020240622900395',
+'00033101070720240624000366',
+'00033101070720240624000359',
+'00033194965220240612000349',
+'00033101070720240701000476'
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi. 
+berdasarakan pengecekan atas aju tersebut proses status reject dengan uraian :
+BARANG SERI 5 KODE FASILITAS TARIF PADA BARANG TARIF HARUS DIISI
+KURS TIDAK SESUAI
+Silahkan melakukan perbaikan atas reject tersebut
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+
+05010000622320240926026884
+05010000622320240918024985
+
+
+'00003301882720240604000099',
+'00003301882720240604000107',
+'00003301882720240605000124',
+'00003301882720240605000129',
+'00003301882720240605000130',
+'00003301882720240605000125',
+'00003301882720240605000128',
+'00003301882720240605000135',
+'00003301882720240606000191',
+'00003301882720240606000192',
+'00003301882720240606000194',
+'00003301882720240606000195',
+'00003301882720240606000196',
+'00003301882720240607000220',
+'00003301882720240607000221'
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+
+silahkan coba submit dokumen kembali.
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.
+
+7786883052
+
+Terima kasih telah melaporkan melalui Ceisa Care, mohon maaf atas kendala yang terjadi.  
+
+Silahakan sumbit faktur kembali dengan format AWB#NTPN.
+
+Jika solusi yang kami berikan belum menyelesaikan kendala Anda, silakan re-open tiket kembali. 
+Terima kasih dan mohon maaf atas ketidaknyamanannya.

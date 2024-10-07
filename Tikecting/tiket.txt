@@ -1,0 +1,13 @@
+Tiket 2/9/24
+470513 Respon NPD PIB CEISA 4.0 aju berikut blank/kosong, mohon bantuan generate ulang
+470545 lanjutan tiket 470382 
+470642 Kendala Aktivasi Portal CEISA 40
+470671 Email Link aktivasi pendaftaran tidak masuk
+470730 Tidak mendapat email aktivasi pendaftaran akun portal pengguna jasa
+470684 Dokumen BC 2.7 SPPB blank
+470824 CEISA 4.0 PIB Respon Stuck Payment Verification
+
+
+
+Tiket 3/9/24
+470486 PEB - Beberapa Data Berubah Menjadi 0 (AEO)
